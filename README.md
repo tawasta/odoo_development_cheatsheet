@@ -1,8 +1,9 @@
 # Odoo development cheatsheet
 
-Collection of commonly used in Odoo development.
+Collection of commonly needed material in Odoo development.
 
-This repository is just to provide some helpers that aren't necessary well-tested. Use on your own risk.
+This repository is just to provide some helpers that aren't necessary well-tested.
+Use at your own risk.
 
 ## Contents
 - [[8.0] Security groups](security_groups/security_groups_8.0.md)
