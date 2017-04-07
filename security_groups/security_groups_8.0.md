@@ -1,3 +1,5 @@
+**Name** - *External ID*
+
 - **Accounting / Payments** - *account_payment.group_account_payment*
 - **Accounting & Finance / Accountant** - *account.group_account_user*
 - **Accounting & Finance / Financial Manager** - *account.group_account_manager*

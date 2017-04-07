@@ -1,0 +1,82 @@
+**Name** - *External ID*
+
+- **Administration / Access Rights** - *base.group_erp_manager*
+- **Accounting & Finance / Accountant** - *account.group_account_user*
+- **Technical Settings / Addresses in Sales Orders** - *sale.group_delivery_invoice_address*
+- **Technical Settings / Advance bidding process** - *purchase.group_advance_bidding*
+- **Accounting & Finance / Adviser** - *account.group_account_manager*
+- **Technical Settings / Analytic Accounting** - *analytic.group_analytic_accounting*
+- **Technical Settings / Analytic Accounting for Purchases** - *purchase.group_analytic_accounting*
+- **Technical Settings / Analytic Accounting for Sales** - *sale.group_analytic_accounting*
+- **Technical Settings / Attendances** - *base.group_hr_attendance*
+- **Accounting & Finance / Billing** - *account.group_account_invoice*
+- **Administration / Configuration** - *base.group_configuration*
+- **Other Extra Rights / Contact Creation** - *base.group_partner_manager*
+- **Technical Settings / Discount on lines** - *sale.group_discount_per_so_line*
+- **Technical Settings / Display incoterms on Sales Order and related invoices** - *sale.group_display_incoterm*
+- **Website / Editor** - *base.group_website_publisher*
+- **Website / Editor and Designer** - *base.group_website_designer*
+- **Human Resources / Employee** - *base.group_user*
+- **Technical Settings / Enable Light Multi Company** - *base.group_light_multi_company*
+- **Technical Settings / Enable Route on Sales Order Line** - *sale_stock.group_route_so_lines*
+- **Human Resources / Equipment Manager** - *base.group_equipment_manager*
+- **Technical Settings / Manage Different Stock Owners** - *stock.group_tracking_owner*
+- **Technical Settings / Manage Inventory Valuation and Costing Methods** - *stock_account.group_inventory_valuation*
+- **Technical Settings / Manage Lots / Serial Numbers** - *stock.group_production_lot*
+- **Technical Settings / Manage Mass Mailing Campaigns** - *mass_mailing.group_mass_mailing_campaign*
+- **Technical Settings / Manage Multiple Locations and Warehouses** - *stock.group_locations*
+- **Technical Settings / Manage Multiple Units of Measure** - *product.group_uom*
+- **Technical Settings / Manage Packages** - *stock.group_tracking_lot*
+- **Technical Settings / Manage Pricelist Items** - *product.group_pricelist_item*
+- **Technical Settings / Manage Product Packaging** - *product.group_stock_packaging*
+- **Technical Settings / Manage Product Variants** - *product.group_product_variant*
+- **Technical Settings / Manage Properties of Product** - *product.group_mrp_properties*
+- **Technical Settings / Manage Push and Pull inventory flows** - *stock.group_adv_location*
+- **Technical Settings / Manage Secondary Unit of Measure** - *product.group_uos*
+- **Technical Settings / Manage Vendor Price** - *purchase.group_manage_vendor_price*
+- **Technical Settings / Manage Work Order Operations** - *mrp.group_mrp_routings*
+- **Technical Settings / Manage rounding and efficiency of BoM components** - *mrp.group_rounding_efficiency*
+- **Purchases / Manager** - *purchase.group_purchase_manager*
+- **Events / Manager** - *event.group_event_manager*
+- **Fleet / Manager** - *fleet.group_fleet_manager*
+- **Project / Manager** - *project.group_project_manager*
+- **Live Support / Manager** - *im_livechat.im_livechat_group_manager*
+- **Survey / Manager** - *base.group_survey_manager*
+- **Human Resources / Manager** - *base.group_hr_manager*
+- **Lunch / Manager** - *lunch.group_lunch_manager*
+- **Sales / Manager** - *base.group_sale_manager*
+- **Inventory / Manager** - *stock.group_stock_manager*
+- **Manufacturing / Manager** - *mrp.group_mrp_manager*
+- **Lead Automation / Manager** - *marketing.group_lead_automation_manager*
+- **Point of Sale / Manager** - *point_of_sale.group_pos_manager*
+- **Extra Rights / Multi Companies** - *base.group_multi_company*
+- **Extra Rights / Multi Currencies** - *base.group_multi_currency*
+- **Human Resources / Officer** - *base.group_hr_user*
+- **Other Extra Rights / Portal** - *base.group_portal*
+- **Technical Settings / Pricelists On Product** - *product.group_product_pricelist*
+- **Technical Settings / Pro-forma Invoices** - *account.group_proforma_invoices*
+- **Technical Settings / Properties on lines** - *sale.group_mrp_properties*
+- **Other Extra Rights / Public** - *base.group_public*
+- **Technical Settings / Sales Pricelists** - *product.group_sale_pricelist*
+- **Technical Settings / Schedule Emails on Event Subscription** - *event.group_email_scheduling*
+- **Sales / See Own Leads** - *base.group_sale_salesman*
+- **Sales / See all Leads** - *base.group_sale_salesman_all_leads*
+- **Administration / Settings** - *base.group_system*
+- **Technical Settings / Show Lead Menu** - *crm.group_use_lead*
+- **Technical Settings / Task's Work on Tasks** - *project.group_tasks_work_on_tasks*
+- **Extra Rights / Technical Features** - *base.group_no_one*
+- **Technical Settings / Time Estimation on Tasks** - *project.group_time_work_estimation_tasks*
+- **Technical Settings / Use subscription pop up on the website** - *mass_mailing.group_website_popup_on_exit*
+- **Mass Mailing / User** - *mass_mailing.group_mass_mailing_user*
+- **Live Support / User** - *im_livechat.im_livechat_group_user*
+- **Lunch / User** - *lunch.group_lunch_user*
+- **Project / User** - *project.group_project_user*
+- **Point of Sale / User** - *point_of_sale.group_pos_user*
+- **Lead Automation / User** - *marketing.group_lead_automation_user*
+- **Manufacturing / User** - *mrp.group_mrp_user*
+- **Inventory / User** - *stock.group_stock_user*
+- **Purchases / User** - *purchase.group_purchase_user*
+- **Fleet / User** - *fleet.group_fleet_user*
+- **Survey / User** - *base.group_survey_user*
+- **Events / User** - *event.group_event_user*
+
