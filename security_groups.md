@@ -1,0 +1,68 @@
+*External ID* - **Display Name**
+- *account.group_account_user* - **Accounting & Finance / Accountant**
+- *account.group_account_manager* - **Accounting & Finance / Financial Manager**
+- *account.group_account_invoice* - **Accounting & Finance / Invoicing & Payments**
+- *base.group_erp_manager* - **Administration / Access Rights**
+- *base.group_system* - **Administration / Settings**
+- *base.group_partner_manager* - **Contact Creation**
+- *event.group_event_manager* - **Events / Manager**
+- *event.group_event_user* - **Events / User**
+- *base.group_user* - **Human Resources / Employee**
+- *base.group_hr_manager* - **Human Resources / Manager**
+- *base.group_hr_user* - **Human Resources / Officer**
+- *base.group_document_user* - **Knowledge / User**
+- *marketing.group_marketing_manager* - **Marketing / Manager**
+- *marketing.group_marketing_user* - **Marketing / User**
+- *base.group_portal* - **Portal**
+- *project.group_project_manager* - **Project / Manager**
+- *project.group_project_user* - **Project / User**
+- *base.group_public* - **Public**
+- *purchase.group_purchase_manager* - **Purchases / Manager**
+- *purchase.group_purchase_user* - **Purchases / User**
+- *base.group_sale_manager* - **Sales / Manager**
+- *base.group_sale_salesman_all_leads* - **Sales / See all Leads**
+- *base.group_sale_salesman* - **Sales / See Own Leads**
+- *share.group_share_user* - **Sharing / User**
+- *sale.group_delivery_invoice_address* - **Technical Settings / Addresses in Sales Orders**
+- *purchase.group_advance_bidding* - **Technical Settings / Advance bidding process**
+- *analytic.group_analytic_accounting* - **Technical Settings / Analytic Accounting**
+- *purchase.group_analytic_accounting* - **Technical Settings / Analytic Accounting for Purchases**
+- *sale.group_analytic_accounting* - **Technical Settings / Analytic Accounting for Sales**
+- *base.group_hr_attendance* - **Technical Settings / Attendances**
+- *account.group_supplier_inv_check_total* - **Technical Settings / Check Total on supplier invoices**
+- *sale.group_discount_per_so_line* - **Technical Settings / Discount on lines**
+- *base.group_mono_salesteams* - **Technical Settings / Do Not Use Sales Teams**
+- *sale_stock.group_invoice_deli_orders* - **Technical Settings / Enable Invoicing Delivery orders**
+- *sale.group_invoice_so_lines* - **Technical Settings / Enable Invoicing Sales order lines**
+- *sale_stock.group_route_so_lines* - **Technical Settings / Enable Route on Sales Order Line**
+- *stock.group_tracking_owner* - **Technical Settings / Manage Different Stock Owners**
+- *crm.group_fund_raising* - **Technical Settings / Manage Fund Raising**
+- *stock_account.group_inventory_valuation* - **Technical Settings / Manage Inventory Valuation and Costing Methods**
+- *stock.group_production_lot* - **Technical Settings / Manage Lots / Serial Numbers**
+- *stock.group_locations* - **Technical Settings / Manage Multiple Locations and Warehouses**
+- *product.group_uom* - **Technical Settings / Manage Multiple Units of Measure**
+- *stock.group_tracking_lot* - **Technical Settings / Manage Packages**
+- *product.group_stock_packaging* - **Technical Settings / Manage Product Packaging**
+- *product.group_mrp_properties* - **Technical Settings / Manage Properties of Product**
+- *stock.group_adv_location* - **Technical Settings / Manage Push and Pull inventory flows**
+- *base.group_multi_salesteams* - **Technical Settings / Manage Sales Teams**
+- *product.group_uos* - **Technical Settings / Manage Secondary Unit of Measure**
+- *account_analytic_analysis.group_template_required* - **Technical Settings / Mandatory use of templates in contracts**
+- *base.group_multi_currency* - **Technical Settings / Multi Currencies**
+- *account.group_proforma_invoices* - **Technical Settings / Pro-forma Invoices**
+- *sale.group_mrp_properties* - **Technical Settings / Properties on lines**
+- *product.group_purchase_pricelist* - **Technical Settings / Purchase Pricelists**
+- *product.group_sale_pricelist* - **Technical Settings / Sales Pricelists**
+- *crm.group_scheduled_calls* - **Technical Settings / Show Scheduled Calls Menu**
+- *project.group_delegate_task* - **Technical Settings / Task Delegation**
+- *project.group_tasks_work_on_tasks* - **Technical Settings / Task's Work on Tasks**
+- *project.group_time_work_estimation_tasks* - **Technical Settings / Time Estimation on Tasks**
+- *portal_sale.group_payment_options* - **Technical Settings / View Online Payment Options**
+- *base.group_multi_company* - **Usability / Multi Companies**
+- *base.group_no_one* - **Usability / Technical Features**
+- *stock.group_stock_manager* - **Warehouse / Manager**
+- *stock.group_stock_user* - **Warehouse / User**
+- *base.group_website_publisher* - **Website / Display Editor Bar on Website**
+- *base.group_website_designer* - **Website / Manage Website and qWeb view**
+- *website_mail.group_comment* - **Website Comments**
+
