@@ -11,4 +11,4 @@ Use at your own risk.
 - [[10.0] Security groups](security_groups/security_groups_10.0.md)
 
 ---
-Licensed [WTFPL](http://www.wtfpl.net/about/) - feel free to utilize this as you see fit
+Licensed WTFPL - feel free to utilize this as you see fit
