@@ -5,7 +5,7 @@ Collection of commonly used in Odoo development.
 This repository is just to provide some helpers that aren't necessary well-tested. Use on your own risk.
 
 ## Contents
-[Security groups](security_groups.md)
+[Security groups 8.0](security_groups/security_groups_8.0.md)
 
 
 ---
