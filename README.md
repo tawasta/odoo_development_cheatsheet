@@ -15,6 +15,18 @@ Use at your own risk.
 - [[14.0] Security groups](security_groups/security_groups_14.0.md)
 - [[15.0] Security groups](security_groups/security_groups_15.0.md)
 - [[16.0] Security groups](security_groups/security_groups_16.0.md)
+- [[17.0] Security groups](security_groups/security_groups_17.0.md)
+
+## Updating
+1. Create a new security_groups-file in [Security groups](security_groups)
+2. Go to https://runbot.odoo.com/ and login to an instance (Enterprise-version)
+3. Order by name
+4. Export all security groups as CSV (name, external id)
+5. Open with your favourite regex-capable text editor and replace `^([^,]+),([^ ]+)$` with `- **\1** - *\2*`
+6. Fix the headers (fist line) by hand
+7. Check that everything seems sane
+8. Add new link to context in the previous section -^
+9. Commit and push. Thanks!
 
 ---
 Licensed WTFPL - feel free to utilize this as you see fit
