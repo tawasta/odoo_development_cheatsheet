@@ -22,7 +22,7 @@ Use at your own risk.
 ## Updating
 1. Create a new security_groups-file in [Security groups](security_groups)
 2. Go to https://runbot.odoo.com/ and login to an instance (Enterprise-version)
-3. Order by name
+3. Go to security groups and order by name. If this is not possible, order by name after export
 4. Export all security groups as CSV (Display name, External ID)
 5. Open with your favourite regex-capable text editor and replace `^([^,]+),([^ ]+)$` with `- **\1** - *\2*`
 6. Fix the headers (fist line) by hand
