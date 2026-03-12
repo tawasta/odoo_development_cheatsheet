@@ -1,0 +1,186 @@
+**Name** - *External ID*
+
+- **A warning can be set on a partner (Stock)** - *stock.group_warning_stock*
+- **A warning can be set on a product or a customer (Purchase)** - *purchase.group_warning_purchase*
+- **A warning can be set on a product or a customer (Sale)** - *sale.group_warning_sale*
+- **Access Rights** - *base.group_erp_manager*
+- **Accounting / Administrator** - *account.group_account_manager*
+- **Accounting / Bookkeeper** - *account.group_account_user*
+- **Accounting / Invoicing** - *account.group_account_invoice*
+- **Accounting / Invoicing & Banks** - *account.group_account_basic*
+- **Accounting / Read-only** - *account.group_account_readonly*
+- **Allow the cash rounding management** - *account.group_cash_rounding*
+- **Allow to define fiscal years of more or less than a year** - *account_accountant.group_fiscal_year*
+- **Analytic Accounting** - *analytic.group_analytic_accounting*
+- **Appointment / Administrator** - *appointment.group_appointment_manager*
+- **Appointment / User** - *appointment.group_appointment_user*
+- **Appraisals / Administrator** - *hr_appraisal.group_hr_appraisal_manager*
+- **Appraisals / Officer: Access all appraisals** - *hr_appraisal.group_hr_appraisal_user*
+- **Approvals / Administrator** - *approvals.group_approval_manager*
+- **Approvals / Officer: Approve all requests** - *approvals.group_approval_user*
+- **Attendances / Administrator** - *hr_attendance.group_hr_attendance_manager*
+- **Attendances / Officer: Manage all attendances** - *hr_attendance.group_hr_attendance_user*
+- **Auto Assigment** - *helpdesk.group_auto_assignment*
+- **Bank / Validate bank account** - *account.group_validate_bank_account*
+- **Basic Pricelists** - *product.group_product_pricelist*
+- **Bypass HTML Field Sanitize** - *base.group_sanitize_override*
+- **Canned Responses / Canned Response Administrator** - *mail.group_mail_canned_response_admin*
+- **Comparison Price** - *website_sale.group_product_price_comparison*
+- **Contact / Creation** - *base.group_partner_manager*
+- **Create new quotations directly from the tasks** - *industry_fsm.group_fsm_quotation_from_task*
+- **Dashboard / Admin** - *spreadsheet_dashboard.group_dashboard_manager*
+- **Databases / Administrator** - *databases.group_databases_manager*
+- **Databases / User** - *databases.group_databases_user*
+- **Default access for new users** - *base.default_user_group*
+- **Delivery Address** - *account.group_delivery_invoice_address*
+- **Discount on lines** - *sale.group_discount_per_so_line*
+- **Display CV on application form** - *hr_recruitment.group_applicant_cv_display*
+- **Display payslip PDF** - *hr_payroll.group_payslip_display*
+- **Display Serial & Lot Number in Delivery Slips** - *stock.group_lot_on_delivery_slip*
+- **Display Serial & Lot Number on Invoices** - *stock_account.group_lot_on_invoice*
+- **Documents / Administrator** - *documents.group_documents_manager*
+- **Documents / System Administrator** - *documents.group_documents_system*
+- **Documents / User** - *documents.group_documents_user*
+- **eLearning / Manager** - *website_slides.group_website_slides_manager*
+- **eLearning / Officer** - *website_slides.group_website_slides_officer*
+- **Email Marketing / User** - *mass_mailing.group_mass_mailing_user*
+- **Employees / Administrator** - *hr.group_hr_manager*
+- **Employees / Officer: Manage all employees** - *hr.group_hr_user*
+- **Enable Commission Forecast** - *sale_commission.group_commission_forecast*
+- **Enable CSRD reporting features** - *esg_csrd.group_esg_csrd_reporting*
+- **Equity / Manager** - *equity.group_equity_manager*
+- **Equity / Viewer** - *equity.group_equity_viewer*
+- **ESG / Administrator** - *esg.esg_group_manager*
+- **ESG / User** - *esg.esg_group_user*
+- **Events / Administrator** - *event.group_event_manager*
+- **Events / Registration Desk** - *event.group_event_registration_desk*
+- **Events / User** - *event.group_event_user*
+- **Expenses / Administrator** - *hr_expense.group_hr_expense_manager*
+- **Expenses / All Approver** - *hr_expense.group_hr_expense_user*
+- **Expenses / Team Approver** - *hr_expense.group_hr_expense_team_approver*
+- **Export / Allowed** - *base.group_allow_export*
+- **Field Service / Administrator** - *industry_fsm.group_fsm_manager*
+- **Field Service / User** - *industry_fsm.group_fsm_user*
+- **Fleet / Administrator** - *fleet.fleet_group_manager*
+- **Fleet / Officer: Manage all vehicles** - *fleet.fleet_group_user*
+- **Frontdesk / Administrator** - *frontdesk.frontdesk_group_administrator*
+- **Frontdesk / User** - *frontdesk.frontdesk_group_user*
+- **Helpdesk / Administrator** - *helpdesk.group_helpdesk_manager*
+- **Helpdesk / User** - *helpdesk.group_helpdesk_user*
+- **Include expiration dates on delivery slip** - *product_expiry.group_expiry_date_on_delivery_slip*
+- **Inventory / Administrator** - *stock.group_stock_manager*
+- **Inventory / User** - *stock.group_stock_user*
+- **IoT / Administrator** - *iot.group_iot_admin*
+- **IoT / User** - *iot.group_iot_user*
+- **Live Chat / Administrator** - *im_livechat.im_livechat_group_manager*
+- **Live Chat / User** - *im_livechat.im_livechat_group_user*
+- **Lock Confirmed Sales** - *sale.group_auto_done_setting*
+- **Lunch / Administrator** - *lunch.group_lunch_manager*
+- **Lunch / User : Order your meal** - *lunch.group_lunch_user*
+- **Mail Group Administrator** - *mail_group.group_mail_group_manager*
+- **Mail Template Editor** - *mail.group_mail_template_editor*
+- **Maintenance / Equipment Manager** - *maintenance.group_equipment_manager*
+- **Manage Different Stock Owners** - *stock.group_tracking_owner*
+- **Manage Lots / Serial Numbers** - *stock.group_production_lot*
+- **Manage Mass Mailing Campaigns** - *mass_mailing.group_mass_mailing_campaign*
+- **Manage Multiple Stock Locations** - *stock.group_stock_multi_locations*
+- **Manage Multiple Units of Measure** - *uom.group_uom*
+- **Manage Multiple Warehouses** - *stock.group_stock_multi_warehouses*
+- **Manage Packages** - *stock.group_tracking_lot*
+- **Manage Product Variants** - *product.group_product_variant*
+- **Manage Purchase Alternatives** - *purchase_requisition.group_purchase_alternatives*
+- **Manage Push and Pull inventory flows** - *stock.group_adv_location*
+- **Manage Reseller(E-Commerce)** - *l10n_in.group_l10n_in_reseller*
+- **Manage template access** - *sign.manage_template_access*
+- **Manage Work Order Operations** - *mrp.group_mrp_routings*
+- **Manage Work Order timer on Shop Floor** - *mrp_workorder.group_mrp_wo_tablet_timer*
+- **Manage your manufacturing orders from the shop floor display app** - *mrp_workorder.group_mrp_wo_shop_floor*
+- **Manufacturing / Administrator** - *mrp.group_mrp_manager*
+- **Manufacturing / User** - *mrp.group_mrp_user*
+- **Marketing Automation / User** - *marketing_automation.group_marketing_automation_user*
+- **Marketing Card / Marketing Card Manager** - *marketing_card.marketing_card_group_manager*
+- **Marketing Card / Marketing Card User** - *marketing_card.marketing_card_group_user*
+- **Multi Companies** - *base.group_multi_company*
+- **Multi Currencies** - *base.group_multi_currency*
+- **Multi-website** - *website.group_multi_website*
+- **Officer: Manage attendances** - *hr_attendance.group_hr_attendance_officer*
+- **Partial Purchase Deductibility** - *account.group_partial_purchase_deductibility*
+- **Partner Commissions / All Documents** - *partner_commission.group_commission_manager*
+- **Partner Commissions / Own Documents Only** - *partner_commission.group_commission_user*
+- **Payroll / Administrator** - *hr_payroll.group_hr_payroll_manager*
+- **Payroll / Officer: Manage all contracts** - *hr_payroll.group_hr_payroll_user*
+- **Planning / Administrator** - *planning.group_planning_manager*
+- **Planning / User** - *planning.group_planning_user*
+- **PLM / Administrator** - *mrp_plm.group_plm_manager*
+- **PLM / User** - *mrp_plm.group_plm_user*
+- **Point of Sale / Administrator** - *point_of_sale.group_pos_manager*
+- **Point of Sale / User** - *point_of_sale.group_pos_user*
+- **Preset Menu** - *point_of_sale.group_pos_preset*
+- **Print GS1 Barcodes for Lot & Serial Numbers** - *stock.group_stock_lot_print_gs1*
+- **Pro-forma Invoices** - *sale.group_proforma_sales*
+- **Produce residual products** - *mrp.group_mrp_byproducts*
+- **Product Feed** - *website_sale.group_product_feed*
+- **Products / Create** - *product.group_product_manager*
+- **Project / Administrator** - *project.group_project_manager*
+- **Project / User** - *project.group_project_user*
+- **Public access to arbitrary exposed model** - *website.website_page_controller_expose*
+- **Purchase / Administrator** - *purchase.group_purchase_manager*
+- **Purchase / User** - *purchase.group_purchase_user*
+- **Quality / Administrator** - *quality.group_quality_manager*
+- **Quality / User** - *quality.group_quality_user*
+- **Quotation Templates** - *sale_management.group_sale_order_template*
+- **Receive notifications in Odoo** - *mail.group_mail_notification_type_inbox*
+- **Recruitment / Administrator** - *hr_recruitment.group_hr_recruitment_manager*
+- **Recruitment / Interviewer** - *hr_recruitment.group_hr_recruitment_interviewer*
+- **Recruitment / Officer: Manage all applicants** - *hr_recruitment.group_hr_recruitment_user*
+- **Referral Reward Responsible User** - *hr_referral.group_hr_referral_reward_responsible_user*
+- **Referrals / Administrator** - *hr_referral.group_hr_referral_manager*
+- **Referrals / User: Referral only** - *hr_referral.group_hr_recruitment_referral_user*
+- **Require a signature on your delivery orders** - *stock.group_stock_sign_delivery*
+- **Role / Administrator** - *base.group_system*
+- **Role / Portal** - *base.group_portal*
+- **Role / Public** - *base.group_public*
+- **Role / User** - *base.group_user*
+- **Room / Manage Rooms** - *room.group_room_manager*
+- **Sales / Administrator** - *sales_team.group_sale_manager*
+- **Sales / User: All Documents** - *sales_team.group_sale_salesman_all_leads*
+- **Sales / User: Own Documents Only** - *sales_team.group_sale_salesman*
+- **Send an automatic reminder email to confirm delivery** - *purchase.group_send_reminder*
+- **Show Customer Ratings** - *helpdesk.group_use_rating*
+- **Show Inalterability Features** - *account.group_account_secured*
+- **Show Lead Menu** - *crm.group_use_lead*
+- **Show Recurring Revenues Menu** - *crm.group_use_recurring_revenues*
+- **Show SLA Policies** - *helpdesk.group_use_sla*
+- **Sign / Administrator** - *sign.group_sign_manager*
+- **Sign / User: Own Templates** - *sign.group_sign_user*
+- **Social Marketing / Social Manager** - *social.group_social_manager*
+- **Social Marketing / Social User** - *social.group_social_user*
+- **Surveys / Administrator** - *survey.group_survey_manager*
+- **Surveys / User** - *survey.group_survey_user*
+- **Technical Documentation** - *api_doc.group_allow_doc*
+- **Technical Features** - *base.group_no_one*
+- **Time Off / Administrator** - *hr_holidays.group_hr_holidays_manager*
+- **Time Off / Officer: Manage all requests** - *hr_holidays.group_hr_holidays_user*
+- **Time Off Responsible** - *hr_holidays.group_hr_holidays_responsible*
+- **Timesheets** - helpdesk_timesheet.group_use_helpdesk_timesheet*
+- **Timesheets / Administrator** - *hr_timesheet.group_timesheet_manager*
+- **Timesheets / User: all timesheets** - *hr_timesheet.group_hr_timesheet_approver*
+- **Timesheets / User: own timesheets only** - *hr_timesheet.group_hr_timesheet_user*
+- **Unlocked by default** - *mrp.group_unlocked_by_default*
+- **UOM Price Display for eCommerce** - *website_sale.group_show_uom_price*
+- **Use Live Chat** - *website_helpdesk_livechat.group_use_website_helpdesk_livechat*
+- **Use Milestones** - *project.group_project_milestone*
+- **Use Operation Dependencies** - *mrp.group_mrp_workorder_dependencies*
+- **Use pickings for rental orders** - *sale_stock_renting.group_rental_stock_picking*
+- **Use Reception Report** - *stock.group_reception_report*
+- **Use Reception Report with Manufacturing Orders** - *mrp.group_mrp_reception_report*
+- **Use Recurring Tasks** - *project.group_project_recurring_tasks*
+- **Use Stages on Project** - *project.group_project_stages*
+- **Use Task Dependencies** - *project.group_project_task_dependencies*
+- **Use Time Billing** - *helpdesk_sale.group_use_helpdesk_sale_timesheet*
+- **User: Read his own attendances** - *hr_attendance.group_hr_attendance_own_reader*
+- **VoIP / Administrator** - *voip.group_voip_admin*
+- **VoIP / Officer** - *voip.group_voip_officer*
+- **Website / Editor and Designer** - *website.group_website_designer*
+- **Website / Restricted Editor** - *website.group_website_restricted_editor*
+- **WhatsApp / Administrator** - *whatsapp.group_whatsapp_admin*
